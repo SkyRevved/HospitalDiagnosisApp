@@ -1,7 +1,3 @@
-Certainly! Here's an updated version of the `README.md` with an added section for screenshots:
-
----
-
 # Hospital Diagnosis System
 
 This Python project is a hospital diagnostic system that allows users to input their symptoms and receive a possible diagnosis. It features a graphical user interface (GUI) created with Tkinter and can be converted into a standalone executable using PyInstaller.
@@ -134,5 +130,3 @@ Feel free to contribute to the project by submitting issues or pull requests. Pl
 For any questions or feedback, please contact [srini.baruah@gmail.com].
 
 ---
-
-This section allows you to include visual examples of your application, making it easier for users to understand what to expect. Make sure to replace the placeholder paths with the actual paths to your screenshots and add relevant captions.
