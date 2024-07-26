@@ -104,13 +104,16 @@ To create a standalone executable from the Python script, follow these steps:
 Below are some screenshots of the application in action:
 
 ![image](https://github.com/user-attachments/assets/b1416b10-901a-4aed-b645-132f47b66e82)
-*Caption: The main window of the application showing symptom selection.*
+
+*The main window of the application showing symptom selection.*
 
 ![image](https://github.com/user-attachments/assets/76e81b02-e70f-4177-baf4-d6fab032045c)
-*Caption: The form for entering patient information.*
+
+*The form for entering patient information.*
 
 ![image](https://github.com/user-attachments/assets/33e1cf78-83ec-4181-a6fc-3d113dc6d5fa)
-*Caption: The diagnosis results screen.*
+
+*The diagnosis results screen.*
 
 To add your own screenshots, replace `path/to/screenshotX.png` with the actual paths to your image files in the repository. Ensure that the screenshots are included in the repository for proper display.
 
